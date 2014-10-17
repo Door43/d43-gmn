@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gmn:home|Door43 (gmn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gmn|d43-gmn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gmn/archive/master.zip|d43-gmn.zip]]
+
+**Recent Changes**
+{{changes>ns = gmn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gmn|Ethnologue data]]
+
